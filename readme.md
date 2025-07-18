@@ -13,13 +13,13 @@ Aspiring Software Developer
 
 - 📫 How to reach me :
 
-<br />[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">](https://www.linkedin.com/in/-mohanraj/) [<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">](https://www.instagram.com/mj_devil_1805/#)
+<br />[<img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="50" height="50">](https://www.linkedin.com/in/-mohanraj/) [<img src="https://skillicons.dev/icons?i=instagram&theme=light" width="50" height="50">](https://www.instagram.com/mj_devil_1805/#)
   
 
 ### I code in
 
   
- <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/html-5.png"  />  <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/css3.png"  /> <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/javascript.png"/> <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="[https://icons8.com/icon/GPfHz0SM85FX/java](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000)">
+<img height="50" width="50" src="https://skillicons.dev/icons?i=html&theme=light"/> <img height="50" width="50" src="https://skillicons.dev/icons?i=css&theme=light"/> <img height="50" width="50" src="https://skillicons.dev/icons?i=javascript&theme=light"/> <img  height="50"  width="50"  src="https://skillicons.dev/icons?i=mysql&theme=light"/> <img height="50" width="50" src="https://skillicons.dev/icons?i=java&theme=light">
   
 
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanraj-d&theme=dark&show_icons=true&&hide=issues,contribs)
