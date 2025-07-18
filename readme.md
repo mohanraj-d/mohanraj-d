@@ -19,7 +19,7 @@ Aspiring Software Developer
 ### I code in
 
   
- <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/html-5.png"  />  <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/css3.png"  /> <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/javascript.png"/> <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://icons8.com/icon/GPfHz0SM85FX/java">
+ <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/html-5.png"  />  <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/css3.png"  /> <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/javascript.png"/> <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="[https://icons8.com/icon/GPfHz0SM85FX/java](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000)">
   
 
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanraj-d&theme=dark&show_icons=true&&hide=issues,contribs)
