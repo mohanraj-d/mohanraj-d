@@ -13,7 +13,7 @@ Aspiring Software Developer
 
 - 📫 How to reach me :
 
-<br />[<img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="50" height="50">](https://www.linkedin.com/in/-mohanraj/) [<img src="https://skillicons.dev/icons?i=instagram&theme=light" width="50" height="50">](https://www.instagram.com/mj_devil_1805/#)
+<br />              [<img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="50" height="50">](https://www.linkedin.com/in/-mohanraj/) [<img src="https://skillicons.dev/icons?i=instagram&theme=light" width="50" height="50">](https://www.instagram.com/mj_devil_1805/#)
   
 
 ### I code in
