@@ -30,7 +30,7 @@
 
   
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Mohan-raj?ext=contest&theme=dark)](https://leetcode.com/Mohan-raj)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Mohan-raj?ext=contest&theme=dark)](https://leetcode.com/mohanraj-d)
 
   
 
